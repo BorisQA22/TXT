@@ -1,0 +1,5 @@
+        film: "Die Hard",
+        series: "Moonlighting",
+        food: "sushi",
+        season: "spring",
+        country: "Finland"

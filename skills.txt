@@ -1,0 +1,3 @@
+"Accuracy", 
+"Critical Thinking", 
+"Autonomy"
