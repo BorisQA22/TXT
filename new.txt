@@ -1,0 +1,4 @@
+GUI: "Brus Willis",
+year: 50,
+Animals: 2,
+Salary: 5000
